@@ -1,5 +1,7 @@
 AutoSave para Unity 3D
 ==
+[Brindie Games]
+
 Pare de perder projetos por esquecer de salvar, pare de apertar CTRL+S toda hora pra ter certeza que tudo foi salvo, automatize já :D
 
 Versão 1.0
@@ -17,3 +19,7 @@ Instalação
 [AutoSave.cs]:https://github.com/jefferson-ferreira/Unity3D-AutoSave/blob/master/AutoSave.cs
 
 ####Obs: Comente a linha 15 se quiser que ele trabalhe em silencio
+
+### :)
+
+[BrIndie Games]: https://www.facebook.com/brindiegames?ref=github
