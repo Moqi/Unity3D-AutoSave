@@ -1,0 +1,13 @@
+*.csproj
+*.meta
+*.unity
+*.db
+*.prefs
+*.asset
+*.dwlt
+*.txt
+*.dll
+*.mdb
+*.sln
+*.suo
+*.cache
