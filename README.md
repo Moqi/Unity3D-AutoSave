@@ -12,9 +12,9 @@ Versão 1.0
 
 Instalação
 --
-* Clique com o botão direito no link: [AutoSave.cs] e escolha "Salvar como"
+* Clique ali em "[Download ZIP]"
 * Salve num lugar facil de achar
-* Jogue o script em qualquer canto do seu projeto e seja feliz :)
+* Jogue o [AutoSave.cs] em qualquer canto do seu projeto e seja feliz :)
 
 [AutoSave.cs]:https://github.com/jefferson-ferreira/Unity3D-AutoSave/blob/master/AutoSave.cs
 
@@ -23,3 +23,4 @@ Instalação
 ### :)
 
 [BrIndie Games]: https://www.facebook.com/brindiegames?ref=github
+[Download Zip]: https://github.com/jefferson-ferreira/Unity3D-AutoSave/archive/master.zip
